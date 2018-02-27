@@ -11,3 +11,5 @@ Au niveau Mobile
 -Configurer les adresses IPs dans le fichier MobileWS.java pour qu'elle soient conformes aux celles du web pour assurer la communication des webService et webSocket entre le web et le Mobile
 -Connecter l'emulateur ou le telephone aux PC contenat l'application Web.
 -Lancer l'application
+
+@raiseyourhand
